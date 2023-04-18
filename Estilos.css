@@ -1,0 +1,32 @@
+h1{
+	color: #F39C12;
+	background: #000000;
+	font-family: Arial;
+}
+h2{
+	color: #F39C12;
+	background: #000000;
+	font-family: Arial;
+}
+p{
+	color: #880E4F;
+	background: #000000;
+	font-family: Arial;
+}
+.Minecraft{
+	text-align: right;
+	border-color: blue;
+}
+h3{
+	color: #F4511E;
+	font-family: Arial;
+}
+.Container{
+	position: relative;
+	display: inline-block;
+	text-align: center;
+}
+a{
+	color: red;
+	font-family: Arial;
+}
